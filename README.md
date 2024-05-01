@@ -6,14 +6,14 @@
   - fndjkf
 - <b>Python</b>
   - gfsdgsgs
-- <b>Project 3</b>
-  -gsdgdsgsdf
-- <b>Project 4</b>
-  -gsdgdsgsd
-- <b>Project 5</b>
-  -gdsgfdsgs
-- <b>Project 6</b>
-  -gdsgsdgsd
+- <b>Project 3 </b>
+  - fndjkf
+- <b>Project 4 </b>
+  - fndjkf
+- <b>Project 5 </b>
+  - fndjkf
+- <b>Project 6 </b>
+  - fndjkf
 
 <h2> My Certifications </h2>
 
