@@ -3,13 +3,13 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Active Directory (AD)</b>
-  - [Active Directory Home Lab](https://github.com/nwscarbrough/ActiveDirectoryLab/tree/main)
+  - [Active Directory Home Lab](https://github.com/nwscarbrough/ActiveDirectoryLab/tree/main) NOT DONE YET
 - <b>Python</b>
   - [Python Algorithm for file updates](https://github.com/nwscarbrough/PythonAutomationFiles/tree/main)
 - <b>Linux </b>
   - [File Permissions in Linux](https://github.com/nwscarbrough/FilePermissionsUpdateLinux/tree/main)
 - <b>SQL</b>
-  - fndjkf
+  - [Applying Filters to SQL Queries](https://github.com/nwscarbrough/SQLFiltersQueries/tree/main)
 - <b>Project 5 </b>
   - fndjkf
 - <b>Project 6 </b>
