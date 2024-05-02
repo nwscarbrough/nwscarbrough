@@ -2,9 +2,10 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/nwscarbrough/ActiveDirectoryLab/tree/main)
+- <b>Active Directory (AD)</b>
+  - [Active Directory Home Lab](https://github.com/nwscarbrough/ActiveDirectoryLab/tree/main)
 - <b>Python</b>
-  - gfsdgsgs
+  - [Python Algorithm for file updates](https://github.com/nwscarbrough/PythonAutomationFiles/tree/main)
 - <b>Project 3 </b>
   - fndjkf
 - <b>Project 4 </b>
