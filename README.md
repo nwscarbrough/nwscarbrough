@@ -8,7 +8,7 @@
   - [Python Algorithm for file updates](https://github.com/nwscarbrough/PythonAutomationFiles/tree/main)
 - <b>Linux </b>
   - [File Permissions in Linux](https://github.com/nwscarbrough/FilePermissionsUpdateLinux/tree/main)
-- <b>Project 4 </b>
+- <b>SQL</b>
   - fndjkf
 - <b>Project 5 </b>
   - fndjkf
