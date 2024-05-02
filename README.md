@@ -6,8 +6,8 @@
   - [Active Directory Home Lab](https://github.com/nwscarbrough/ActiveDirectoryLab/tree/main)
 - <b>Python</b>
   - [Python Algorithm for file updates](https://github.com/nwscarbrough/PythonAutomationFiles/tree/main)
-- <b>Project 3 </b>
-  - fndjkf
+- <b>Linux </b>
+  - [File Permissions in Linux](https://github.com/nwscarbrough/FilePermissionsUpdateLinux/tree/main)
 - <b>Project 4 </b>
   - fndjkf
 - <b>Project 5 </b>
