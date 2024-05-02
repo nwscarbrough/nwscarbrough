@@ -1,6 +1,6 @@
 <h1>Hi, I'm Nick! <br/><a href="https://github.com/nwscarbrough">Intelligence and Applications Analyst</a>, <a href="www.linkedin.com/in/nicholas-scarbrough">Aspiring Cybersecurity Professional</a> </a></h1>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>Security Projects:</h2>
 
 - <b>Active Directory (AD)</b>
   - [Active Directory Home Lab](https://github.com/nwscarbrough/ActiveDirectoryLab/tree/main) NOT DONE YET
