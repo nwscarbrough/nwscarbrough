@@ -13,6 +13,8 @@ Driven security technology professional with a proven track record as a Security
   - [File Permissions in Linux](https://github.com/nwscarbrough/FilePermissionsUpdateLinux/tree/main)
 - <b>SQL</b>
   - [Applying Filters to SQL Queries](https://github.com/nwscarbrough/SQLFiltersQueries/tree/main)
+- <b>Scratch</b>
+  - [Mini Game Created in Scratch](https://github.com/nwscarbrough/Scratch-Game)
 
 
 <h2> My Certifications </h2>
